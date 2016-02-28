@@ -27,7 +27,7 @@ $(document).ready(function(event){
             $("div.inicio").fadeIn();
         });
 
-    	$("li").css("border","none")
+    	$("li").css("border","none");
     	$("li.inicio").css({"border-left":"solid", "border-color":"#ed6ea7"});
     });
 
@@ -48,7 +48,7 @@ $(document).ready(function(event){
             $("div.presentaciones").fadeIn();
         });
 
-    	$("li").css("border","none")
+    	$("li").css("border","none");
     	$("li.presentaciones").css({"border-left":"solid", "border-color":"#ed6ea7"});
     });
 
@@ -69,7 +69,7 @@ $(document).ready(function(event){
             $("div.videos").fadeIn();
         });
 
-    	$("li").css("border","none")
+    	$("li").css("border","none");
     	$("li.videos").css({"border-left":"solid", "border-color":"#ed6ea7"});
     });
 
@@ -90,7 +90,7 @@ $(document).ready(function(event){
             $("div.canciones").fadeIn();
         });
 
-    	$("li").css("border","none")
+    	$("li").css("border","none");
     	$("li.canciones").css({"border-left":"solid", "border-color":"#ed6ea7"});
     });
 
@@ -111,7 +111,7 @@ $(document).ready(function(event){
             $("div.manuales").fadeIn();
         });
 
-    	$("li").css("border","none")
+    	$("li").css("border","none");
     	$("#mandalatexto").css({"border-left":"solid", "border-color":"#ed6ea7"});
     });
 
@@ -132,10 +132,10 @@ $(document).ready(function(event){
             $("div.manuales").fadeIn();
         });
 
-    	$("li").css("border","none")
+    	$("li").css("border","none");
     	$("#lienzomandala").css({"border":"solid", "border-color":"#ed6ea7"});
     });
 
 
 
-})
+});
