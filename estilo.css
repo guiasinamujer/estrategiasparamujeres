@@ -5,6 +5,8 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  -webkit-transform: translate3d(0, 0, 0);
+  
 }
 /*  SECTIONS  */
 .section {
@@ -101,9 +103,8 @@ body{
 #imageninicial{
   width: 35vw;
   position: fixed;
-  text-align: right;
-  right: 15vw;
-  top: 5vh;
+  right: 7vw;
+  top: 2vh;
     
 }
 
@@ -407,11 +408,6 @@ title{
 }
 
 
-
-.manuales:first-child{
-  padding-top: 0;
-  margin-top: 0;
-}
 
 #portadamanual{
   width: 30vw;
