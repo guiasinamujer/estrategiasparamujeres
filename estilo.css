@@ -401,8 +401,6 @@ title{
 
 .contenedormanual{
   display: inline-block;
-  height: initial;
-  width: initial;
   padding: 2.5% 2.5% 2.5% 2.5%;
   margin-right: auto;
   margin-left: auto;
@@ -424,7 +422,7 @@ title{
 }
 
 .imagenmanual{
-  width: 4.5vw;
+  width: 8vw;
 }
 
 
