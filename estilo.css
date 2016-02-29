@@ -465,14 +465,14 @@ title{
 
   #textoinicial #texto{
   position: initial;
-  font-size: 4.3vw;
+  font-size: 4.3vmin;
   
 }
 
   #inicio #boton{
   left: 37vw;
   position: fixed;
-  font-size: 7vw;
+  font-size: 7vmin;
   top: 0;
   
   
@@ -481,7 +481,7 @@ title{
   #inicio #espera{
   left: 46vw;
   position: fixed;
-  font-size: 7vw;
+  font-size: 7vmin;
   top: 0;
   
   
@@ -505,7 +505,7 @@ title{
   #botonera li{
     list-style-type: none;
     padding: 0.6%;
-    font-size: 5vw;
+    font-size: 5vmin;
 
   
   }
@@ -546,11 +546,10 @@ title{
   overflow-x: hidden;
   overflow-y: initial;
   height: initial;
+  padding-bottom: 7vh;
 
 }
-
-
-
+  
 #cancionero p{
   font-size: initial;
 }
